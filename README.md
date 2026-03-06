@@ -88,6 +88,12 @@ const vesh: Developer = {
 
 ---
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vesh8750&theme=github_dark"/>
+
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -99,6 +105,12 @@ const vesh: Developer = {
 </div>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Vesh%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+## 🧊 3D Contribution Graph
+
+<img src="https://github-contributor-stats.vercel.app/api?username=vesh8750&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 ## 🔥 Streak Stats
 
