@@ -92,9 +92,9 @@ const vesh: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vesh8750&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="Vesh's GitHub statistics" />
+<img height="180em" src="github-stats-mu-one.vercel.app/api?username=vesh8750&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="Vesh's GitHub statistics" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vesh8750&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Vesh's most used programming languages" />
+<img height="180em" src="github-stats-mu-one.vercel.app/api/top-langs/?username=vesh8750&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Vesh's most used programming languages" />
 
 </div>
 
