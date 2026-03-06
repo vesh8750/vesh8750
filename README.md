@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there%2C+I'm+Vesh+%F0%9F%91%8B;Full-Stack+Developer+%7C+3D+Enthusiast;Building+cool+stuff+on+the+web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=750&height=110&lines=Hey%2C+I'm+Vesh+%F0%9F%91%8B;Full-Stack+%26+3D+Web+Developer;Real-Time+Systems+%7C+AI+Integrations;Scalable+APIs+%7C+Interactive+Experiences)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=vesh8750&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="vesh8750" />
 
@@ -22,12 +22,24 @@
 ## 🙋‍♂️ About Me
 
 ```ts
-const vesh = {
-  name:       "Vesh",
-  role:       "Full-Stack Developer",
-  passions:   ["3D Web Experiences", "Clean UI/UX", "Performance Optimization"],
-  currentFocus: "Building immersive web apps with Three.js & React",
-  funFact:    "I treat every pixel as a design decision 🎨",
+const vesh: Developer = {
+  name:        "Vesh",
+  role:        "Full-Stack Developer",
+
+  expertise: {
+    frontend:  ["React", "Three.js", "TypeScript", "WebGL"],
+    backend:   ["Node.js", "Python", "REST APIs", "WebSockets"],
+    interests: ["Real-Time Systems", "AI Integrations", "Scalable APIs", "3D Web"],
+  },
+
+  currentFocus: [
+    "Designing low-latency, event-driven backend services",
+    "Embedding LLM capabilities into production web apps",
+    "Crafting interactive 3D experiences with Three.js & GLSL",
+  ],
+
+  philosophy: "Ship fast, observe deeply, iterate relentlessly.",
+  funFact:    "I debug by explaining the problem to my rubber duck 🦆 — it works.",
 };
 ```
 
@@ -36,44 +48,41 @@ const vesh = {
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>⚛️ Frontend</b></summary>
+<summary><b>⚛️ Frontend & 3D</b></summary>
 <br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </details>
 
 <details open>
-<summary><b>🖥️ Backend</b></summary>
+<summary><b>🖥️ Backend & Data</b></summary>
 <br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>⚙️ Tools & DevOps</b></summary>
+<summary><b>⚙️ AI, DevOps & Tooling</b></summary>
 <br>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </details>
 
@@ -139,19 +148,20 @@ const vesh = {
 <summary><b>📌 Pinned Highlights</b></summary>
 <br>
 
-- 🌐 **Portfolio Site** — Interactive 3D portfolio built with React & Three.js → [vesh8750.github.io](https://vesh8750.github.io)
-- 🤖 **AI Chat App** — Real-time chat with AI integration
-- 🎨 **3D Configurator** — Interactive product visualizer using WebGL
+- 🌐 **Portfolio Site** — Interactive 3D portfolio with WebGL shaders, built with React & Three.js → [vesh8750.github.io](https://vesh8750.github.io)
+- 🤖 **AI-Powered App** — Production web app with streaming LLM responses over WebSockets
+- ⚡ **Real-Time Dashboard** — Event-driven data pipeline with sub-100ms UI updates
+- 🎨 **3D Configurator** — Interactive product visualizer using Three.js & custom GLSL shaders
 
 </details>
 
 <details>
-<summary><b>📚 Currently Learning</b></summary>
+<summary><b>📚 Currently Exploring</b></summary>
 <br>
 
-- 🦀 Rust for WebAssembly
-- 🧠 AI/ML integration in web apps
-- ☁️ Cloud architecture (AWS / GCP)
+- 🦀 Rust + WebAssembly for performance-critical browser workloads
+- 🧠 Fine-tuning & RAG pipelines for domain-specific AI features
+- ☁️ Cloud-native architecture — event streaming with Kafka / Pub-Sub
 
 </details>
 
@@ -159,11 +169,11 @@ const vesh = {
 
 <div align="center">
 
-*"Any application that can be written in JavaScript, will eventually be written in JavaScript."*
-— Atwood's Law
+*"Make it work, make it right, make it fast — in that order."*
+— Kent Beck
 
 <br>
 
-**Thanks for visiting! Drop a ⭐ on something cool you find. 😊**
+**Thanks for stopping by! If something catches your eye, drop a ⭐ — it means a lot. 😊**
 
 </div>
