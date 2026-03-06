@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Vesh%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=28\&duration=3000\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&multiline=true\&width=750\&height=110\&lines=Hey%2C+I'm+Vesh+%F0%9F%91%8B;Full-Stack+%26+3D+Web+Developer;Real-Time+Systems+%7C+AI+Integrations;Scalable+APIs+%7C+Interactive+Experiences)](https://git.io/typing-svg)
